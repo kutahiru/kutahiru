@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vpos=top&multiline=true&width=600&height=80&lines=Hi+there%2C+I'm+kutahiru+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:58A6FF&height=200&section=header&text=Hello&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
+
+</div>
 
 <p>
   <a href="https://x.com/RUNTEQ68kuta"><img src="https://img.shields.io/badge/-@RUNTEQ68kuta-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)"></a>
