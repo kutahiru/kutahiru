@@ -105,11 +105,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-daylight.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/kutahiru/kutahiru/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
