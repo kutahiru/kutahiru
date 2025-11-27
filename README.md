@@ -7,9 +7,8 @@
 </div>
 
 <p>
-  <a href="https://x.com/RUNTEQ68kuta"><img src="https://img.shields.io/badge/-@RUNTEQ68kuta-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://x.com/RUNTEQ68kuta"><img src="https://img.shields.io/badge/-@RUNTEQ68kuta-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://github.com/kutahiru"><img src="https://img.shields.io/github/followers/kutahiru?label=Followers&style=social" alt="GitHub Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=kutahiru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 </div>
