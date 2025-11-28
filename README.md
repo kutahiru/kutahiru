@@ -35,9 +35,15 @@
 </div>
 
 ### 💡 アイデア研究所
+
 <a href="https://github.com/kutahiru/idea_labo">
   <img width="600" height="300" alt="top-ogp" src="https://github.com/user-attachments/assets/317c87f1-8a0f-4162-a225-7b478c713f39" />
 </a>
+
+<p>
+  <a href="https://github.com/kutahiru/idea_labo"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://idea-kenkyujo.com"><img src="https://img.shields.io/badge/-アプリを見る-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="App"></a>
+</p>
 
 アイデアの発想と管理を可能とするWebアプリです。  
 **ブレインライティング**・**マンダラート**・**オズボーンのチェックリスト**の3つのフレームワークでアイデア発想を可能とします。
@@ -53,9 +59,15 @@
 ---
 
 ### 💊 おくすり飲んでね
+
 <a href="https://github.com/kutahiru/okusuri_nondene">
   <img width="600" height="300" alt="OGP" src="https://github.com/user-attachments/assets/387d784c-4eac-4f61-a3eb-0898adc8fe87" />
 </a>
+
+<p>
+  <a href="https://github.com/kutahiru/okusuri_nondene"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://okusuri-nondene.com"><img src="https://img.shields.io/badge/-アプリを見る-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="App"></a>
+</p>
 
 家族のためのおくすり飲み忘れ防止アプリです。  
 一つの服薬設定で服薬者と見守り家族の双方に通知をすることが特徴です。  
