@@ -29,8 +29,8 @@
 
 <div align="center">
 
-[![idea_labo](https://github-readme-stats.vercel.app/api/pin/?username=kutahiru&repo=idea_labo&theme=tokyonight&hide_border=true)](https://github.com/kutahiru/idea_labo)
-[![okusuri_nondene](https://github-readme-stats.vercel.app/api/pin/?username=kutahiru&repo=okusuri_nondene&theme=tokyonight&hide_border=true)](https://github.com/kutahiru/okusuri_nondene)
+[![idea_labo](https://github-readme-stats-puce-six-20.vercel.app/api/pin/?username=kutahiru&repo=idea_labo&theme=tokyonight&hide_border=true)](https://github.com/kutahiru/idea_labo)
+[![okusuri_nondene](https://github-readme-stats-puce-six-20.vercel.app/api/pin/?username=kutahiru&repo=okusuri_nondene&theme=tokyonight&hide_border=true)](https://github.com/kutahiru/okusuri_nondene)
 
 </div>
 
@@ -113,8 +113,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kutahiru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutahiru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-puce-six-20.vercel.app/api?username=kutahiru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-puce-six-20.vercel.app/api/top-langs/?username=kutahiru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
