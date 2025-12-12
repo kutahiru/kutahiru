@@ -118,7 +118,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-git-main-kutas-projects-8162a993.vercel.app/?user=kutahiru&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-three-blond.vercel.app/?user=kutahiru&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
